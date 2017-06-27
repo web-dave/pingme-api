@@ -6,7 +6,11 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "web-dave",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/web-dave/pingme-api"
+  },
   "license": "ISC",
   "dependencies": {
     "base-64": "^0.1.0",
