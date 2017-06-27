@@ -13,7 +13,7 @@ Endpoint|Method|Payload|Response
 #### extended pushsubscription
 <pre>
 {
-    action: 'subscribe',
+    action: 'subscribe'|'unsubscribe',
     subscription: pushSubscription,
     user: username
 }
